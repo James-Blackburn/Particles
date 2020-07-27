@@ -1,2 +1,2 @@
 # Particles
-Compute shader particle simulation with OpenGL and C++
+Compute shader particle simulation with OpenGL 4.3 and C++
